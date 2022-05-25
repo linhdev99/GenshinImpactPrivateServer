@@ -11,7 +11,7 @@ import java.util.List;
 
 import static emu.grasscutter.utils.Language.translate;
 
-@Command(label = "account", usage = "account <create|delete> <username> [uid]", description = "commands.account.description", targetRequirement = Command.TargetRequirement.NONE)
+@Command(label = "account", usage = "account <create|delete> <username> <password>", description = "commands.account.description", targetRequirement = Command.TargetRequirement.NONE)
 public final class AccountCommand implements CommandHandler {
 
     @Override
@@ -33,18 +33,26 @@ public final class AccountCommand implements CommandHandler {
             default:
                 CommandHandler.sendMessage(null, translate(sender, "commands.account.command_usage"));
                 return;
-            case "create":
-                int uid = 0;
-                if (args.size() > 2) {
-                    try {
-                        uid = Integer.parseInt(args.get(2));
-                    } catch (NumberFormatException ignored) {
-                        CommandHandler.sendMessage(null, translate(sender, "commands.account.invalid"));
-                        return;
-                    }
+            case "create": {
+                if (args.size() < 2) {
+                    CommandHandler.sendMessage(null, translate(sender, "commands.account.command_usage"));
+                    return;
                 }
+                String password = args.get(2);
+                // int uid = 0;
+                // if (args.size() > 2) {
+                // try {
+                // uid = Integer.parseInt(args.get(2));
+                // } catch (NumberFormatException ignored) {
+                // CommandHandler.sendMessage(null, translate(sender,
+                // "commands.account.invalid"));
+                // return;
+                // }
+                // }
 
-                emu.grasscutter.game.Account account = DatabaseHelper.createAccountWithId(username, uid);
+                // emu.grasscutter.game.Account account =
+                // DatabaseHelper.createAccountWithId(username, uid);
+                emu.grasscutter.game.Account account = DatabaseHelper.createAccountWithPassword(username, password);
                 if (account == null) {
                     CommandHandler.sendMessage(null, translate(sender, "commands.account.exists"));
                     return;
@@ -52,10 +60,12 @@ public final class AccountCommand implements CommandHandler {
                     account.addPermission("*");
                     account.save(); // Save account to database.
 
-                    CommandHandler.sendMessage(null, translate(sender, "commands.account.create", Integer.toString(account.getPlayerUid())));
+                    CommandHandler.sendMessage(null,
+                            translate(sender, "commands.account.create", Integer.toString(account.getPlayerUid())));
                 }
                 return;
-            case "delete":
+            }
+            case "delete": {
                 // Get the account we want to delete.
                 Account toDelete = DatabaseHelper.getAccountByName(username);
 
@@ -65,7 +75,8 @@ public final class AccountCommand implements CommandHandler {
                 }
 
                 // Get the player for the account.
-                // If that player is currently online, we kick them before proceeding with the deletion.
+                // If that player is currently online, we kick them before proceeding with the
+                // deletion.
                 Player player = Grasscutter.getGameServer().getPlayerByUid(toDelete.getPlayerUid());
                 if (player != null) {
                     player.getSession().close();
@@ -74,6 +85,7 @@ public final class AccountCommand implements CommandHandler {
                 // Finally, we do the actual deletion.
                 DatabaseHelper.deleteAccount(toDelete);
                 CommandHandler.sendMessage(null, translate(sender, "commands.account.delete"));
+            }
         }
     }
 }

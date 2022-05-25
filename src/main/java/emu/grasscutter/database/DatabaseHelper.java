@@ -56,7 +56,7 @@ public final class DatabaseHelper {
 		return account;
 	}
 
-	@Deprecated
+	// @Deprecated
 	public static Account createAccountWithPassword(String username, String password) {
 		// Unique names only
 		Account exists = DatabaseHelper.getAccountByName(username);

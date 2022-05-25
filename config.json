@@ -1,0 +1,125 @@
+{
+  "folderStructure": {
+    "resources": "./resources/",
+    "data": "./data/",
+    "packets": "./packets/",
+    "scripts": "./resources/scripts/",
+    "plugins": "./plugins/"
+  },
+  "databaseInfo": {
+    "server": {
+      "connectionUri": "mongodb://localhost:27017",
+      "collection": "grasscutter"
+    },
+    "game": {
+      "connectionUri": "mongodb://localhost:27017",
+      "collection": "grasscutter"
+    }
+  },
+  "language": {
+    "language": "en_US",
+    "fallback": "en_US",
+    "document": "EN"
+  },
+  "account": {
+    "autoCreate": false,
+    "defaultPermissions": [],
+    "maxPlayer": -1
+  },
+  "server": {
+    "debugLevel": "NONE",
+    "runMode": "HYBRID",
+    "http": {
+      "bindAddress": "0.0.0.0",
+      "accessAddress": "127.0.0.1",
+      "bindPort": 4433,
+      "accessPort": 0,
+      "encryption": {
+        "useEncryption": true,
+        "useInRouting": true,
+        "keystore": "./keystore.p12",
+        "keystorePassword": "123456"
+      },
+      "policies": {
+        "cors": {
+          "enabled": false,
+          "allowedOrigins": [
+            "*"
+          ]
+        }
+      },
+      "files": {
+        "indexFile": "./index.html",
+        "errorFile": "./404.html"
+      }
+    },
+    "game": {
+      "bindAddress": "0.0.0.0",
+      "accessAddress": "127.0.0.1",
+      "bindPort": 22102,
+      "accessPort": 0,
+      "enableConsole": true,
+      "gameOptions": {
+        "inventoryLimits": {
+          "weapons": 2000,
+          "relics": 2000,
+          "materials": 2000,
+          "furniture": 2000,
+          "all": 30000
+        },
+        "avatarLimits": {
+          "singlePlayerTeam": 4,
+          "multiplayerTeam": 4
+        },
+        "worldEntityLimit": 1000,
+        "watchGachaConfig": false,
+        "enableShopItems": true,
+        "staminaUsage": true,
+        "energyUsage": false,
+        "rates": {
+          "adventureExp": 1.0,
+          "mora": 1.0,
+          "leyLines": 1.0
+        }
+      },
+      "joinOptions": {
+        "welcomeEmotes": [
+          2007,
+          1002,
+          4010
+        ],
+        "welcomeMessage": "Welcome to a Peter Linh server.",
+        "welcomeMail": {
+          "title": "Welcome to Peter Linh!",
+          "content": "Hi there!\r\nFirst of all, welcome to Peter Linh. If you have any issues, please let us know so that Lawnmower can help you! \r\n\r\nCheck out our:\r\n\u003ctype\u003d\"browser\" text\u003d\"Discord\" href\u003d\"https://discord.gg/T5vZU6UyeG\"/\u003e\n",
+          "sender": "Lawnmower",
+          "items": [
+            {
+              "itemId": 13509,
+              "itemCount": 1,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 201,
+              "itemCount": 99999,
+              "itemLevel": 1
+            }
+          ]
+        }
+      },
+      "serverAccount": {
+        "avatarId": 10000007,
+        "nameCardId": 210001,
+        "adventureRank": 1,
+        "worldLevel": 0,
+        "nickName": "Peter Linh",
+        "signature": "Welcome to Genshin Impact's Linh!"
+      }
+    },
+    "dispatch": {
+      "regions": [],
+      "defaultName": "Peter Linh"
+    }
+  },
+  "version": 3
+}

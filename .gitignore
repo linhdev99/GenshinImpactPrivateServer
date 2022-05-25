@@ -17,7 +17,7 @@
 *.nar
 *.ear
 *.zip
-*.gz
+*.tar.gz
 *.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
@@ -52,30 +52,10 @@ tmp/
 .vscode
 
 # Grasscutter
-/resources
-/logs
-/plugins
-/data
-/keys
-/language
-/languages
-/src/generated
-
-/*.jar
-/*.sh
-
-GM Handbook.txt
-config.json
-mitmdump.exe
-mongod.exe
-
-gacha-mapping.js
-mappings.js
-BuildConfig.java
-
-# lombok
-/.apt_generated/
-
-# macOS
-.DS_Store
-data/hk4e/announcement/
+resources/
+logs/
+plugins/
+data/AbilityEmbryos.json
+data/OpenConfig.json
+*.jar
+!lib/*.jar
