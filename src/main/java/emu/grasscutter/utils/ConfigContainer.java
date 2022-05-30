@@ -108,7 +108,7 @@ public class ConfigContainer {
     }
 
     public static class Account {
-        public boolean autoCreate = false;
+        public boolean autoCreate = true;
         public String[] defaultPermissions = {};
         public int maxPlayer = -1;
     }

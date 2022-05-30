@@ -2,6 +2,7 @@ package emu.grasscutter.auth;
 
 import emu.grasscutter.Grasscutter;
 import emu.grasscutter.auth.AuthenticationSystem.AuthenticationRequest;
+import emu.grasscutter.command.CommandHandler;
 import emu.grasscutter.database.DatabaseHelper;
 import emu.grasscutter.game.Account;
 import emu.grasscutter.server.http.objects.*;
@@ -22,6 +23,8 @@ public final class DefaultAuthenticators {
             var response = new LoginResultJson();
             
             var requestData = request.getPasswordRequest();
+            CommandHandler.sendMessage(null, request.getPasswordRequest().account);
+            CommandHandler.sendMessage(null, request.getPasswordRequest().password);
             assert requestData != null; // This should never be null.
             int playerCount = Grasscutter.getGameServer().getPlayers().size();
 
@@ -36,7 +39,8 @@ public final class DefaultAuthenticators {
                 // Check if account exists.
                 if(account == null && ACCOUNT.autoCreate) {
                     // This account has been created AUTOMATICALLY. There will be no permissions added.
-                    account = DatabaseHelper.createAccountWithId(requestData.account, 0);
+//                    account = DatabaseHelper.createAccountWithId(requestData.account, 0);
+                    account = DatabaseHelper.createAccountWithPassword(request.getPasswordRequest().account, request.getPasswordRequest().password);
 
                     // Check if the account was created successfully.
                     if(account == null) {
@@ -49,10 +53,18 @@ public final class DefaultAuthenticators {
                         // Log the creation.
                         Grasscutter.getLogger().info(translate("messages.dispatch.account.account_login_create_success", address, response.data.account.uid));
                     }
-                } else if(account != null)
+                } else if(account != null) {
                     successfulLogin = true;
-                 else
-                    loggerMessage = translate("messages.dispatch.account.account_login_exist_error", address);
+                }
+                 else {
+                     if (ACCOUNT.autoCreate) {
+                         account = DatabaseHelper.createAccountWithPassword(request.getPasswordRequest().account, request.getPasswordRequest().password);
+                         successfulLogin = true;
+                     }
+                     else {
+                         loggerMessage = translate("messages.dispatch.account.account_login_exist_error", address);
+                     }
+                }
 
             } else {
                 responseMessage = translate("messages.dispatch.account.server_max_player_limit");
