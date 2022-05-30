@@ -52,10 +52,10 @@ tmp/
 .vscode
 
 # Grasscutter
-resources/
+#resources/
 logs/
 plugins/
-data/AbilityEmbryos.json
-data/OpenConfig.json
+#data/AbilityEmbryos.json
+#data/OpenConfig.json
 *.jar
 !lib/*.jar

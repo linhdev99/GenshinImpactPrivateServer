@@ -1,0 +1,1949 @@
+[
+    {
+        "Id": 10001,
+        "StockList": [
+            1,
+            3
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 5,
+                "MKOADGMNGJC": 7
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 5,
+                "MKOADGMNGJC": 7
+            }
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 3331586185,
+        "PoolDescTextMapHash": 1096443717,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 10002,
+        "StockList": [
+            4
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY",
+                "CHIMDAJADJB": 100,
+                "MKOADGMNGJC": 110
+            },
+            {}
+        ],
+        "MaxNum": 10,
+        "PoolNameTextMapHash": 1836453081,
+        "PoolDescTextMapHash": 3442338213,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 10003,
+        "StockList": [
+            1000011,
+            1000012
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY"
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT"
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 3722962353,
+        "PoolDescTextMapHash": 1020945101,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "DailyLimitNum": 50,
+        "ExcludeFish": []
+    },
+    {
+        "Id": 10004,
+        "StockList": [
+            1000021,
+            1000022
+        ],
+        "StockGuarantee": {
+            "1000023": 2
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY"
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT"
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 662554113,
+        "PoolDescTextMapHash": 46773349,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "DailyLimitNum": 50,
+        "ExcludeFish": []
+    },
+    {
+        "Id": 10005,
+        "StockList": [
+            1000031,
+            1000032
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY"
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT"
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 3417726033,
+        "PoolDescTextMapHash": 2078436261,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "DailyLimitNum": 50,
+        "ExcludeFish": []
+    },
+    {
+        "Id": 10006,
+        "StockList": [
+            1000041,
+            1000042
+        ],
+        "StockGuarantee": {
+            "1000043": 2
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY"
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT"
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 2305442849,
+        "PoolDescTextMapHash": 3404900421,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21600001
+        ],
+        "DailyLimitNum": 50,
+        "ExcludeFish": []
+    },
+    {
+        "Id": 10007,
+        "StockList": [
+            1000051,
+            1000052
+        ],
+        "StockGuarantee": {
+            "1000053": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY"
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT"
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 2020162065,
+        "PoolDescTextMapHash": 1647433885,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "DailyLimitNum": 50,
+        "ExcludeFish": [
+            1019
+        ]
+    },
+    {
+        "Id": 10008,
+        "StockList": [
+            1000051,
+            1000052
+        ],
+        "StockGuarantee": {
+            "1000053": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY"
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT"
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 1175742001,
+        "PoolDescTextMapHash": 3303842237,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "DailyLimitNum": 50,
+        "ExcludeFish": [
+            1019
+        ]
+    },
+    {
+        "Id": 101,
+        "StockList": [
+            1011
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 4
+            },
+            {}
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 219258849,
+        "PoolDescTextMapHash": 3125325461,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 102,
+        "StockList": [
+            1012
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 3
+            },
+            {}
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1827963865,
+        "PoolDescTextMapHash": 1217276573,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 1001,
+        "StockList": [
+            10011,
+            10012
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 3342040361,
+        "PoolDescTextMapHash": 1417297237,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 1
+    },
+    {
+        "Id": 1002,
+        "StockList": [
+            10021,
+            10022
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 548761561,
+        "PoolDescTextMapHash": 4035342509,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 1
+    },
+    {
+        "Id": 1003,
+        "StockList": [
+            10031,
+            10032
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 2156735633,
+        "PoolDescTextMapHash": 1470615917,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 1
+    },
+    {
+        "Id": 1004,
+        "StockList": [
+            10041,
+            10042
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1791008929,
+        "PoolDescTextMapHash": 2158448837,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 1
+    },
+    {
+        "Id": 1005,
+        "StockList": [
+            10051,
+            10052
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 95226361,
+        "PoolDescTextMapHash": 654311853,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 1
+    },
+    {
+        "Id": 1006,
+        "StockList": [
+            10061,
+            10062
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 156828481,
+        "PoolDescTextMapHash": 2737805165,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 1
+    },
+    {
+        "Id": 1007,
+        "StockList": [
+            10071,
+            10072
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 7749449,
+        "PoolDescTextMapHash": 1273677845,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 1
+    },
+    {
+        "Id": 1008,
+        "StockList": [
+            10081,
+            10082
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 131863465,
+        "PoolDescTextMapHash": 3496049021,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 1
+    },
+    {
+        "Id": 1009,
+        "StockList": [
+            10091,
+            10092
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 3162537337,
+        "PoolDescTextMapHash": 308243133,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 1010,
+        "StockList": [
+            10101,
+            10102
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 659369017,
+        "PoolDescTextMapHash": 4029599493,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 1011,
+        "StockList": [
+            10111,
+            10112
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 3404730449,
+        "PoolDescTextMapHash": 3768900685,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 1012,
+        "StockList": [
+            10121,
+            10122
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 3736410297,
+        "PoolDescTextMapHash": 71021637,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 1013,
+        "StockList": [
+            10131,
+            10132
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1890588241,
+        "PoolDescTextMapHash": 2216747653,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 1014,
+        "StockList": [
+            10141,
+            10142
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 3395997169,
+        "PoolDescTextMapHash": 1711028413,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 2001,
+        "StockList": [
+            20011,
+            20012
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1869212865,
+        "PoolDescTextMapHash": 914640269,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2002,
+        "StockList": [
+            20021,
+            20022
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 3838674321,
+        "PoolDescTextMapHash": 3136502613,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2003,
+        "StockList": [
+            20031,
+            20032
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1318422081,
+        "PoolDescTextMapHash": 327664917,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2004,
+        "StockList": [
+            20041,
+            20042
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 2743453081,
+        "PoolDescTextMapHash": 506905245,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2005,
+        "StockList": [
+            20051,
+            20052
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 1412692689,
+        "PoolDescTextMapHash": 896004245,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2006,
+        "StockList": [
+            20061,
+            20062
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 163403081,
+        "PoolDescTextMapHash": 967328013,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2007,
+        "StockList": [
+            20071,
+            20072
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1201958257,
+        "PoolDescTextMapHash": 3816562301,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2008,
+        "StockList": [
+            20081,
+            20082
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 4122393009,
+        "PoolDescTextMapHash": 832440845,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2009,
+        "StockList": [
+            20091,
+            20092
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 4269271857,
+        "PoolDescTextMapHash": 1475919381,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2010,
+        "StockList": [
+            20101,
+            20102
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 3050169465,
+        "PoolDescTextMapHash": 442337109,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2011,
+        "StockList": [
+            20111,
+            20112
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1340056393,
+        "PoolDescTextMapHash": 2964893101,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2012,
+        "StockList": [
+            20121,
+            20122
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1264251329,
+        "PoolDescTextMapHash": 306648181,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 2013,
+        "StockList": [
+            20131,
+            20132
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 3982121001,
+        "PoolDescTextMapHash": 10416413,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": [],
+        "CityId": 2
+    },
+    {
+        "Id": 3001,
+        "StockList": [
+            30012
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {}
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1154005441,
+        "PoolDescTextMapHash": 523547405,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3002,
+        "StockList": [
+            30021,
+            30022
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 322132817,
+        "PoolDescTextMapHash": 1344942381,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3003,
+        "StockList": [
+            30031,
+            30032
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 3526211569,
+        "PoolDescTextMapHash": 3295462373,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3004,
+        "StockList": [
+            30041,
+            30042
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 963741953,
+        "PoolDescTextMapHash": 88743837,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3005,
+        "StockList": [
+            30051,
+            30052
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 2192079009,
+        "PoolDescTextMapHash": 3790378469,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3006,
+        "StockList": [
+            30061,
+            30062
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 1159456737,
+        "PoolDescTextMapHash": 2176944277,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3007,
+        "StockList": [
+            30071,
+            30072
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 3058843233,
+        "PoolDescTextMapHash": 3057860661,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3008,
+        "StockList": [
+            30081,
+            30082
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 874742609,
+        "PoolDescTextMapHash": 749103717,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3009,
+        "StockList": [
+            30091,
+            30092
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 3472034417,
+        "PoolDescTextMapHash": 2908311157,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3010,
+        "StockList": [
+            30101,
+            30102
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 346207929,
+        "PoolDescTextMapHash": 2025834893,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001,
+            21600010
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3011,
+        "StockList": [
+            30111,
+            30112
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 1123925777,
+        "PoolDescTextMapHash": 842763709,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3012,
+        "StockList": [
+            30121,
+            30122
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 3,
+                "MKOADGMNGJC": 5
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 3118069457,
+        "PoolDescTextMapHash": 697653461,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3013,
+        "StockList": [
+            30131,
+            30132
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 2,
+                "MKOADGMNGJC": 4
+            }
+        ],
+        "MaxNum": 4,
+        "PoolNameTextMapHash": 4226150345,
+        "PoolDescTextMapHash": 2649153981,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [
+            21700001
+        ],
+        "ExcludeFish": [],
+        "CityId": 3
+    },
+    {
+        "Id": 3014,
+        "StockList": [
+            30141,
+            30142
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 3902738337,
+        "PoolDescTextMapHash": 866381309,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 3015,
+        "StockList": [
+            30151,
+            30152
+        ],
+        "StockGuarantee": {},
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_DAY",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            },
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_NIGHT",
+                "CHIMDAJADJB": 4,
+                "MKOADGMNGJC": 6
+            }
+        ],
+        "MaxNum": 5,
+        "PoolNameTextMapHash": 3961550337,
+        "PoolDescTextMapHash": 3245334621,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 1,
+        "StockList": [
+            11
+        ],
+        "StockGuarantee": {
+            "13": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 3025072729,
+        "PoolDescTextMapHash": 1697518909,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 2,
+        "StockList": [
+            21
+        ],
+        "StockGuarantee": {
+            "23": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 492932553,
+        "PoolDescTextMapHash": 2888547813,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 3,
+        "StockList": [
+            31
+        ],
+        "StockGuarantee": {
+            "33": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 1702542081,
+        "PoolDescTextMapHash": 3666778269,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 4,
+        "StockList": [
+            41
+        ],
+        "StockGuarantee": {
+            "43": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 3231902873,
+        "PoolDescTextMapHash": 4190832629,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 5,
+        "StockList": [
+            51
+        ],
+        "StockGuarantee": {
+            "53": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 1748476313,
+        "PoolDescTextMapHash": 2406756085,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 6,
+        "StockList": [
+            61
+        ],
+        "StockGuarantee": {
+            "63": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 3850628425,
+        "PoolDescTextMapHash": 1953183357,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 7,
+        "StockList": [
+            71
+        ],
+        "StockGuarantee": {
+            "73": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 2293075809,
+        "PoolDescTextMapHash": 3539485253,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 8,
+        "StockList": [
+            81
+        ],
+        "StockGuarantee": {
+            "83": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 2279685673,
+        "PoolDescTextMapHash": 1811847925,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 9,
+        "StockList": [
+            91
+        ],
+        "StockGuarantee": {
+            "93": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 1616572289,
+        "PoolDescTextMapHash": 4002467285,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 10,
+        "StockList": [
+            101
+        ],
+        "StockGuarantee": {
+            "103": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 3988151961,
+        "PoolDescTextMapHash": 214058269,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 11,
+        "StockList": [
+            111
+        ],
+        "StockGuarantee": {
+            "113": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 423063097,
+        "PoolDescTextMapHash": 1271163341,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 12,
+        "StockList": [
+            121
+        ],
+        "StockGuarantee": {
+            "123": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 2929561369,
+        "PoolDescTextMapHash": 654688925,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 13,
+        "StockList": [
+            131
+        ],
+        "StockGuarantee": {
+            "133": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 205973905,
+        "PoolDescTextMapHash": 2683502653,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 14,
+        "StockList": [
+            141
+        ],
+        "StockGuarantee": {
+            "143": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 3265812385,
+        "PoolDescTextMapHash": 3078107437,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 15,
+        "StockList": [
+            151
+        ],
+        "StockGuarantee": {
+            "153": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 1843533801,
+        "PoolDescTextMapHash": 3924943253,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 16,
+        "StockList": [
+            161
+        ],
+        "StockGuarantee": {
+            "163": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 3116108577,
+        "PoolDescTextMapHash": 1566125837,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 17,
+        "StockList": [
+            171
+        ],
+        "StockGuarantee": {
+            "173": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 1686299441,
+        "PoolDescTextMapHash": 191181,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 18,
+        "StockList": [
+            181
+        ],
+        "StockGuarantee": {
+            "183": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 2659129041,
+        "PoolDescTextMapHash": 3988621621,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 19,
+        "StockList": [
+            193
+        ],
+        "StockGuarantee": {
+            "193": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 3537131825,
+        "PoolDescTextMapHash": 1604998773,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 20,
+        "StockList": [
+            201
+        ],
+        "StockGuarantee": {
+            "203": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 1972719585,
+        "PoolDescTextMapHash": 1421847373,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 21,
+        "StockList": [
+            211
+        ],
+        "StockGuarantee": {
+            "213": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 2906039777,
+        "PoolDescTextMapHash": 1904117837,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 22,
+        "StockList": [
+            221
+        ],
+        "StockGuarantee": {
+            "223": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 67751833,
+        "PoolDescTextMapHash": 2877513157,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    },
+    {
+        "Id": 23,
+        "StockList": [
+            231
+        ],
+        "StockGuarantee": {
+            "233": 3
+        },
+        "StockLimitList": [
+            {
+                "OKJLOCEIHNL": "FISH_STOCK_TYPE_ANY"
+            },
+            {}
+        ],
+        "MaxNum": 6,
+        "PoolNameTextMapHash": 1533539305,
+        "PoolDescTextMapHash": 1002944573,
+        "AbilityGroup": "Avatar_Fishing",
+        "TeamAbilityGroup": "Avatar_Fishing_OnTeam",
+        "DropIdList": [],
+        "ExcludeFish": []
+    }
+]

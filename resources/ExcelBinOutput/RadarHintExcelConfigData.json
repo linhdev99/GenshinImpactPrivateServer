@@ -1,0 +1,139 @@
+[
+    {
+        "Id": 1,
+        "GCHHOEEABGE": "Oculus",
+        "Name": "风元素结晶雷达提示",
+        "Radius": 80.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkWindCrystal",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 2,
+        "GCHHOEEABGE": "Ore",
+        "Name": "矿石雷达提示",
+        "Radius": 160.0,
+        "EffectName": "",
+        "IconName": "UI_MarkPoint_Ore",
+        "AudioName": ""
+    },
+    {
+        "Id": 3,
+        "GCHHOEEABGE": "HarvetGadget",
+        "Name": "采集物雷达提示",
+        "Radius": 160.0,
+        "EffectName": "",
+        "IconName": "UI_MarkPoint_LocalItem",
+        "AudioName": ""
+    },
+    {
+        "Id": 4,
+        "GCHHOEEABGE": "SmallMeteorite",
+        "Name": "小陨石雷达提示",
+        "Radius": 160.0,
+        "OffsetRadius": 20.0,
+        "AreaRadius": 30.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_LocalItem",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 5,
+        "GCHHOEEABGE": "General",
+        "Name": "绯红玉髓雷达提示",
+        "Radius": 80.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_DulinsEssence",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 6,
+        "GCHHOEEABGE": "General",
+        "Name": "躲猫猫能量球雷达提示",
+        "Radius": 160.0,
+        "EffectName": "",
+        "IconName": "UI_MarkPoint_EnergyBall",
+        "AudioName": ""
+    },
+    {
+        "Id": 7,
+        "GCHHOEEABGE": "General",
+        "Name": "回声海螺雷达提示",
+        "Radius": 160.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_EchoShell",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 8,
+        "GCHHOEEABGE": "General",
+        "Name": "逐月神瞳雷达提示",
+        "Radius": 80.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPonint_LunaRiteMoonlitSigil",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 9,
+        "GCHHOEEABGE": "ReginFeatherIntact",
+        "Name": "鹤观羽毛雷达提示",
+        "Radius": 80.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_ReginFeatherIntact",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 10,
+        "GCHHOEEABGE": "General",
+        "Name": "鹤观栖木能量体雷达提示",
+        "Radius": 80.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_ReginEnergyBall",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 11,
+        "GCHHOEEABGE": "AbyssalisleHarvest",
+        "Name": "渊下宫活动矿石雷达提示",
+        "Radius": 160.0,
+        "EffectName": "",
+        "IconName": "UI_MarkPoint_Ore",
+        "AudioName": ""
+    },
+    {
+        "Id": 12,
+        "GCHHOEEABGE": "General",
+        "Name": "海灯节群玉阁碎片箱子",
+        "Radius": 160.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
+        "AudioName": ""
+    },
+    {
+        "Id": 13,
+        "GCHHOEEABGE": "General",
+        "Name": "渊下宫键纹",
+        "Radius": 80.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_Kagimon",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    },
+    {
+        "Id": 14,
+        "GCHHOEEABGE": "AbyssalislePlant",
+        "Name": "渊下宫活动植物雷达提示",
+        "Radius": 160.0,
+        "EffectName": "",
+        "IconName": "UI_MarkPoint_LocalItem",
+        "AudioName": ""
+    },
+    {
+        "Id": 15,
+        "GCHHOEEABGE": "General",
+        "Name": "天空结晶雷达提示",
+        "Radius": 80.0,
+        "EffectName": "Eff_UI_Mark_WindCrystal",
+        "IconName": "UI_MarkPoint_CelestiaSplinter",
+        "AudioName": "Play_ui_feedback_windCrystal_appear"
+    }
+]

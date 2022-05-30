@@ -1,0 +1,493 @@
+[
+    {
+        "Id": 1,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502201,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 1388012027,
+        "JLEJLPFDKFH": 1138911760
+    },
+    {
+        "Id": 2,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502202,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "1"
+        ],
+        "ProgressFormatTextMapHash": 2386555291,
+        "JLEJLPFDKFH": 4037566904
+    },
+    {
+        "Id": 3,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502205,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 4280201395,
+        "JLEJLPFDKFH": 3901054352
+    },
+    {
+        "Id": 4,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502204,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "2"
+        ],
+        "ProgressFormatTextMapHash": 711886659,
+        "JLEJLPFDKFH": 4107336664
+    },
+    {
+        "Id": 5,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502203,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "ShowParam": [
+            "999"
+        ],
+        "ProgressFormatTextMapHash": 1084281683,
+        "JLEJLPFDKFH": 763582552
+    },
+    {
+        "Id": 6,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502206,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2947008843,
+        "JLEJLPFDKFH": 4216307224
+    },
+    {
+        "Id": 7,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502207,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "4"
+        ],
+        "ProgressFormatTextMapHash": 3431518939,
+        "JLEJLPFDKFH": 3091706624
+    },
+    {
+        "Id": 8,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502209,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 724210587,
+        "JLEJLPFDKFH": 1352667672
+    },
+    {
+        "Id": 9,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502210,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2803719531,
+        "JLEJLPFDKFH": 253920776
+    },
+    {
+        "Id": 10,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502208,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "ShowParam": [
+            "999"
+        ],
+        "ProgressFormatTextMapHash": 2870813139,
+        "JLEJLPFDKFH": 2713457840
+    },
+    {
+        "Id": 11,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502211,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2358002091,
+        "JLEJLPFDKFH": 1899547016
+    },
+    {
+        "Id": 12,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502212,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "7"
+        ],
+        "ProgressFormatTextMapHash": 2130638195,
+        "JLEJLPFDKFH": 2015686360
+    },
+    {
+        "Id": 13,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502215,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 3784467715,
+        "JLEJLPFDKFH": 3677752384
+    },
+    {
+        "Id": 14,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502214,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 260191163,
+        "JLEJLPFDKFH": 246476240
+    },
+    {
+        "Id": 15,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502213,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "ShowParam": [
+            "999"
+        ],
+        "ProgressFormatTextMapHash": 2229289011,
+        "JLEJLPFDKFH": 4166539696
+    },
+    {
+        "Id": 16,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502216,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 4233613787,
+        "JLEJLPFDKFH": 2694261656
+    },
+    {
+        "Id": 17,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502217,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "10"
+        ],
+        "ProgressFormatTextMapHash": 2105344019,
+        "JLEJLPFDKFH": 3466202432
+    },
+    {
+        "Id": 18,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502220,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2258656963,
+        "JLEJLPFDKFH": 1459119104
+    },
+    {
+        "Id": 19,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502219,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "11"
+        ],
+        "ProgressFormatTextMapHash": 2655980555,
+        "JLEJLPFDKFH": 3410488256
+    },
+    {
+        "Id": 20,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502218,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "ShowParam": [
+            "999"
+        ],
+        "ProgressFormatTextMapHash": 1989492739,
+        "JLEJLPFDKFH": 2858786328
+    },
+    {
+        "Id": 21,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502221,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 483256795,
+        "JLEJLPFDKFH": 3435420568
+    },
+    {
+        "Id": 22,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502222,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "12"
+        ],
+        "ProgressFormatTextMapHash": 4112027339,
+        "JLEJLPFDKFH": 697990144
+    },
+    {
+        "Id": 23,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502225,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 1946937723,
+        "JLEJLPFDKFH": 631292736
+    },
+    {
+        "Id": 24,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502224,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "13"
+        ],
+        "ProgressFormatTextMapHash": 3207746451,
+        "JLEJLPFDKFH": 814850680
+    },
+    {
+        "Id": 25,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502223,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "ShowParam": [
+            "999"
+        ],
+        "ProgressFormatTextMapHash": 1373554691,
+        "JLEJLPFDKFH": 1645887744
+    },
+    {
+        "Id": 26,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502226,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2926068547,
+        "JLEJLPFDKFH": 899427848
+    },
+    {
+        "Id": 27,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502227,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "15"
+        ],
+        "ProgressFormatTextMapHash": 28003187,
+        "JLEJLPFDKFH": 2718120200
+    },
+    {
+        "Id": 28,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502230,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 97134331,
+        "JLEJLPFDKFH": 1852102936
+    },
+    {
+        "Id": 29,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502229,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "ShowParam": [
+            "17"
+        ],
+        "ProgressFormatTextMapHash": 1201207971,
+        "JLEJLPFDKFH": 3099213584
+    },
+    {
+        "Id": 30,
+        "ScheduleId": 5022001,
+        "ChallengeWatcherId": 1502228,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "ShowParam": [
+            "999"
+        ],
+        "ProgressFormatTextMapHash": 2321295451,
+        "JLEJLPFDKFH": 2057004976
+    },
+    {
+        "Id": 31,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505401,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 305394003,
+        "JLEJLPFDKFH": 3176670904
+    },
+    {
+        "Id": 32,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505402,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 1305534707,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1125014392
+    },
+    {
+        "Id": 33,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505403,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 1385751611,
+        "JLEJLPFDKFH": 2282459768
+    },
+    {
+        "Id": 34,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505404,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2481455907,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 2499215368
+    },
+    {
+        "Id": 35,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505405,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2319136307,
+        "JLEJLPFDKFH": 2141964352
+    },
+    {
+        "Id": 36,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505406,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2569534363,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1342277720
+    },
+    {
+        "Id": 37,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505407,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 363490035,
+        "JLEJLPFDKFH": 2719562304
+    },
+    {
+        "Id": 38,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505408,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2996757395,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 3520867016
+    },
+    {
+        "Id": 39,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505409,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 1777408371,
+        "JLEJLPFDKFH": 4232710504
+    },
+    {
+        "Id": 40,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505410,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2471069491,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1913383672
+    },
+    {
+        "Id": 41,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505411,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 3400134579,
+        "JLEJLPFDKFH": 2428335056
+    },
+    {
+        "Id": 42,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505412,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2952982651,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1608664840
+    },
+    {
+        "Id": 43,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505413,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 1088441635,
+        "JLEJLPFDKFH": 2093819088
+    },
+    {
+        "Id": 44,
+        "ScheduleId": 5054001,
+        "ChallengeWatcherId": 1505414,
+        "DungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "ShowParam": [
+            ""
+        ],
+        "ProgressFormatTextMapHash": 2881139955,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1833721416
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 1,
+        "OfferingId": 2,
+        "PMNIGHHADFD": 20
+    },
+    {
+        "Id": 2,
+        "OfferingId": 2,
+        "PMNIGHHADFD": 30
+    },
+    {
+        "Id": 3,
+        "OfferingId": 2,
+        "PMNIGHHADFD": 40
+    },
+    {
+        "Id": 4,
+        "OfferingId": 2,
+        "PMNIGHHADFD": 50
+    }
+]

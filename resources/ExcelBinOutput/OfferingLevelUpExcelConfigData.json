@@ -1,0 +1,1866 @@
+[
+    {
+        "OfferingId": 1,
+        "Level": 1,
+        "ActionVec": [
+            {},
+            {}
+        ],
+        "RewardId": 311101,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 1,
+        "Level": 2,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311102,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 3,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311103,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 4,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311104,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 5,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311105,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 6,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311106,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 7,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311107,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 18
+    },
+    {
+        "OfferingId": 1,
+        "Level": 8,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311108,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_OPEN_ROUTINE",
+                "Param": "ROUTINE_SNOW_MOUNTAIN"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 19
+    },
+    {
+        "OfferingId": 1,
+        "Level": 9,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311109,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 20
+    },
+    {
+        "OfferingId": 1,
+        "Level": 10,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311110,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 20
+    },
+    {
+        "OfferingId": 1,
+        "Level": 11,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311111,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 20
+    },
+    {
+        "OfferingId": 1,
+        "Level": 12,
+        "ActionVec": [
+            {
+                "Id": 107010,
+                "Count": 10
+            },
+            {}
+        ],
+        "RewardId": 311112,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_CLOSE_ROUTINE",
+                "Param": "ROUTINE_SNOW_MOUNTAIN"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133008191"
+            }
+        ],
+        "CutSceneId": 21
+    },
+    {
+        "OfferingId": 2,
+        "ActionVec": [
+            {},
+            {}
+        ],
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 1,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211001,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 2,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211002,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 3,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211003,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,2"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 4,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211004,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 5,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211005,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 6,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211006,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 7,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211007,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,3"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 8,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211008,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 9,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211009,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 10,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211010,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,4"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 11,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211011,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 12,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211012,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 13,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211013,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,5"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 14,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211014,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 15,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211015,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 16,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211016,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 17,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211017,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,6"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 18,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211018,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 19,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211019,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 20,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211020,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,7"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 21,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211021,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 22,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211022,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 23,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211023,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,8"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 24,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211024,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 25,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211025,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 26,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211026,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 27,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211027,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,9"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 28,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211028,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 29,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211029,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 30,
+        "ConsumeItemConfig": true,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211030,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,10"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 31,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211031,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 32,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211032,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 33,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211033,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,11"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 34,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211034,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 35,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211035,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 36,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211036,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 37,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211037,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,12"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 38,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211038,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 39,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211039,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 40,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211040,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,13"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 41,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211041,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 42,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211042,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 43,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211043,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,14"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 44,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211044,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 45,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211045,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 46,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211046,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 47,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211047,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100002,15"
+            },
+            {
+                "ActionType": "OFFERING_ACTION_NOTIFY_GROUP",
+                "Param": "133220200"
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 48,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211048,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 49,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211049,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 2,
+        "Level": 50,
+        "ActionVec": [
+            {
+                "Id": 304,
+                "Count": 25
+            },
+            {}
+        ],
+        "RewardId": 211050,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 3,
+        "ActionVec": [
+            {},
+            {}
+        ],
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 3,
+        "Level": 1,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {}
+        ],
+        "RewardId": 312001,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,1"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 2,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {
+                "Id": 101644,
+                "Count": 1
+            }
+        ],
+        "RewardId": 312002,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,2"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 3,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {}
+        ],
+        "RewardId": 312003,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,3"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 4,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {}
+        ],
+        "RewardId": 312004,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,4"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 5,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {}
+        ],
+        "RewardId": 312005,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,5"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 6,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {
+                "Id": 101644,
+                "Count": 1
+            }
+        ],
+        "RewardId": 312006,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,6"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 7,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {}
+        ],
+        "RewardId": 312007,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,7"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 8,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {
+                "Id": 101644,
+                "Count": 1
+            }
+        ],
+        "RewardId": 312008,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,8"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 9,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {}
+        ],
+        "RewardId": 312009,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,9"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 3,
+        "Level": 10,
+        "ActionVec": [
+            {
+                "Id": 107016,
+                "Count": 8
+            },
+            {}
+        ],
+        "RewardId": 312010,
+        "FJFOAPDLHDF": [
+            {
+                "ActionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+                "Param": "100003,10"
+            },
+            {
+                "Param": ""
+            }
+        ],
+        "HPAAGPAKBKC": true
+    },
+    {
+        "OfferingId": 4,
+        "ActionVec": [
+            {},
+            {}
+        ],
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 1,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 80
+            },
+            {}
+        ],
+        "RewardId": 3037101,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 2,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 80
+            },
+            {}
+        ],
+        "RewardId": 3037102,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 3,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 80
+            },
+            {}
+        ],
+        "RewardId": 3037103,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 4,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 80
+            },
+            {}
+        ],
+        "RewardId": 3037104,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 5,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 80
+            },
+            {}
+        ],
+        "RewardId": 3037105,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 6,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 100
+            },
+            {}
+        ],
+        "RewardId": 3037106,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 7,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 100
+            },
+            {}
+        ],
+        "RewardId": 3037107,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 8,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 100
+            },
+            {}
+        ],
+        "RewardId": 3037108,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 9,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 100
+            },
+            {}
+        ],
+        "RewardId": 3037109,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 10,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 100
+            },
+            {}
+        ],
+        "RewardId": 3037110,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 11,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 120
+            },
+            {}
+        ],
+        "RewardId": 3037111,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 12,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 120
+            },
+            {}
+        ],
+        "RewardId": 3037112,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 13,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 120
+            },
+            {}
+        ],
+        "RewardId": 3037113,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 14,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 120
+            },
+            {}
+        ],
+        "RewardId": 3037114,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    },
+    {
+        "OfferingId": 4,
+        "Level": 15,
+        "ActionVec": [
+            {
+                "Id": 101692,
+                "Count": 120
+            },
+            {}
+        ],
+        "RewardId": 3037115,
+        "FJFOAPDLHDF": [
+            {
+                "Param": ""
+            },
+            {
+                "Param": ""
+            }
+        ]
+    }
+]
